@@ -1,0 +1,16 @@
+// Font Awesome
+@import "../../../../node_modules/font-awesome/scss/font-awesome";
+
+// WeUI
+@import "../../../../node_modules/weui/dist/style/weui.css";
+@import "../../../../node_modules/jquery-weui/dist/css/jquery-weui.css";
+
+@import "custom";
+
+// Global
+@import "global";
+
+// Pages
+@import "pages/dashboard";
+
+// Plugins
